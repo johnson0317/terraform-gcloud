@@ -11,7 +11,7 @@ This helper image contains:
 
 
 ```bash
-$ docker build -t ssivart/terraform-gcloud:1.8 .
+$ docker build -t zch0317/terraform-gcloud:2.0
 ```
 
 ```
@@ -19,5 +19,5 @@ $ docker login
 ```
 
 ```
-$ docker push ssivart/terraform-gcloud:1.8
+$ docker push zch0317/terraform-gcloud:2.0
 ```
